@@ -9,6 +9,7 @@ call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
 Plugin 'scrooloose/nerdtree'
 Plugin 'vim-airline/vim-airline'
+Plugin 'brookhong/cscope.vim'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
@@ -28,5 +29,9 @@ filetype plugin indent on    " required
 " nerdtree
 map <C-n> :NERDTreeToggle<CR> 
 
-set nu
+" cscope
+nnoremap <leader>fa :call CscopeFindInteractive(expand('<cword>'))<CR>
+nnoremap <leader>l :call ToggleLocationList()<CR>
 
+set nu
+set showcmd
