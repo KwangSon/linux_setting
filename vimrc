@@ -35,3 +35,5 @@ nnoremap <leader>l :call ToggleLocationList()<CR>
 
 set nu
 set showcmd
+syntax on
+filetype plugin indent on
