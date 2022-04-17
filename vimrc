@@ -36,3 +36,5 @@ set showcmd
 syntax on
 filetype plugin indent on
 colorscheme jellybeans
+highlight ColorColumn ctermbg=gray
+set colorcolumn=80
