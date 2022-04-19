@@ -1,8 +1,9 @@
 # linux_setting
 
 ## app
-xpad  
+gnote  
 safe eyes  
 virt-manager  
 qemu  
 vscode  
+vim  
