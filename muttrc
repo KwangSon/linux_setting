@@ -19,3 +19,5 @@ unset use_domain        # because joe@localhost is just embarrassing
 set realname = "Kwang Son"
 set from = "dev.kwang.son@gmail.com"
 set use_from = yes
+sort = reverse-date
+sort_aux = threads
