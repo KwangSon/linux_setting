@@ -1,0 +1,8 @@
+[user]
+	email = kwangson@yahoo.com
+	name = Kwanghoon Son
+[sendemail]
+	smtpserver = smtp.mail.yahoo.com
+	smtpserverport = 465
+	smtpencryption = ssl
+	smtpuser = kwangson@yahoo.com
