@@ -6,3 +6,4 @@ safe eyes
 virt-manager  
 vscode  
 vim(If vscode not possible)  
+thunderbird
