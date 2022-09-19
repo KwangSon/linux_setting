@@ -5,4 +5,4 @@ gnote
 safe eyes  
 virt-manager  
 vscode  
-vim  
+vim(If vscode not possible)  
