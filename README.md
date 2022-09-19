@@ -4,6 +4,5 @@
 gnote  
 safe eyes  
 virt-manager  
-qemu  
 vscode  
 vim  
